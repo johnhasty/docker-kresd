@@ -1,2 +1,2 @@
-# kresd-arm
+# Knot Resolver Docker Image
 
